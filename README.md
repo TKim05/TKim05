@@ -1,4 +1,4 @@
-## # Hi, I'm Terrim 👋
+## Hi, I'm Terrim 👋
 
 I'm an MSci Theoretical Physics student at University College London, interested in computational physics, machine learning, quantum physics and scientific research.
 
